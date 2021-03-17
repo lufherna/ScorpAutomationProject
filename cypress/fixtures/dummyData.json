@@ -1,0 +1,13 @@
+{
+  "userEmail": "luis.hernandez@blehblah.com",
+  "pw": "Staging1",
+  "mainUrl": "https://ui-staging.scorpion.co/",
+  "testMethod": "POST",
+  "testBodyData": {
+    "excludeChannels": [
+        "string"
+    ] },
+  "testAPIKEY": "43FF78A0-24BE-4ECF-AE26-D43CB9EA4038",
+  "testAPIURL": "https://qa-az.scorpion.co/optisearch/slot01/review/v1/api/accounts/43FF78A0-24BE-4ECF-AE26-D43CB9EA4038/businesses/b96be9d0-6cab-9946-a458-2a51ee919948/reviews?OffSet=0&Count=100",
+  "testExpectedResults": 64
+}
