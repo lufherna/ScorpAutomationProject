@@ -6,7 +6,7 @@ the API testing
 
 In order to run this project you'll need to:
 
-1. Fork it
+1. Download the project folder
 2. Make sure Node is installed on your computer. If it isn't read this (https://nodejs.org/en/download/)
 3. Go to your computer's Terminal -> change the directory to the project -> type in 'npm install'
 4. After the command above runs -> run the tests by typing in 'node_modules/.bin/cypress open'
