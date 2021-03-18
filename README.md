@@ -9,7 +9,7 @@ In order to run this project you'll need to:
 1. Download the project folder
 2. Make sure Node is installed on your computer. If it isn't read this (https://nodejs.org/en/download/)
 3. Go to your computer's Terminal -> change the directory to the project -> type in 'npm install'
-4. After the command above runs -> run the tests by typing in 'node_modules/.bin/cypress open'
+4. After the command above runs -> open Cypress by typing in 'node_modules/.bin/cypress open' -> Once this opens you'll see the option 'Run all specs' on the top right
 5. All tests should run with the results
 
 Please let me know what you think! I'm open to feedback and hearing how else i can optimize this. Thanks!
